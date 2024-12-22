@@ -1,9 +1,17 @@
-# Hi there! 👋
-I'm **Reza Hosseini**, a passionate developer, open-source enthusiast, and lifelong learner.
+Hello! I'm a passionate **Full Stack Web Developer** with over **10 years of experience** in building cutting-edge applications. My journey in the tech world has been a mix of innovation, leadership, and delivering impactful solutions in various domains like **Blockchain**, **AI**, **FinTech**, and more.  
 
-🎯 **Focus:** Full-Stack Development, Blockchain, and AI  
-🌱 **Currently Learning:** Cloud Computing and Machine Learning  
-💡 **Fun Fact:** I love coffee and coding at the same time!
+### 🚀 Expertise  
+- **Backend:** ASP.NET, Node.js, NestJS  
+- **Frontend:** React, Vue.js, Angular, and modern UI frameworks  
+- **Microservices:** Designing scalable, distributed systems with Kafka, RabbitMQ, Redis, and more  
+- **Blockchain:** Smart Contracts, dApps, Ethereum, Subgraph, Solidity, and Hardhat  
+- **AI and FinTech:** Leveraging AI to build smarter financial platforms  
+
+### 🧑‍💼 Leadership  
+As a **Tech Lead** for over 4 years, I’ve guided cross-functional teams, architected robust systems, and driven projects to success while ensuring scalability, maintainability, and cutting-edge technology adoption.  
+
+### 🌟 What Drives Me  
+I’m fueled by curiosity and the drive to solve complex problems. Whether it’s creating decentralized solutions, integrating AI into everyday tools, or building resilient fintech platforms, I always aim to deliver excellence.  
 
 ## 📈 GitHub Stats
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rezaHssini&theme=radical)
