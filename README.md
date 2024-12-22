@@ -13,10 +13,6 @@ As a **Tech Lead** for over 4 years, I’ve guided cross-functional teams, archi
 ### 🌟 What Drives Me  
 I’m fueled by curiosity and the drive to solve complex problems. Whether it’s creating decentralized solutions, integrating AI into everyday tools, or building resilient fintech platforms, I always aim to deliver excellence.  
 
-## 📈 GitHub Stats
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rezaHssini&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rezaHssini)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
