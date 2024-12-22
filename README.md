@@ -2,7 +2,7 @@
 I'm **Reza Hosseini**, a passionate developer, open-source enthusiast, and lifelong learner.
 
 🎯 **Focus:** Full-Stack Development, Blockchain, and AI  
-🌱 **Currently Learning:** Rust and Machine Learning  
+🌱 **Currently Learning:** Cloud Computing and Machine Learning  
 💡 **Fun Fact:** I love coffee and coding at the same time!
 
 ## 📈 GitHub Stats
